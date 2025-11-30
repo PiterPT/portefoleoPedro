@@ -1,0 +1,52 @@
+{
+  "linguagens": [
+    {
+      "nome": "HTML",
+      "tipo": "Linguagem de marcação",
+      "descricao": "Linguagem utilizada para estruturar o conteúdo de páginas web.",
+      "uso_comum": ["Desenvolvimento web", "Estruturação de sites"]
+    },
+    {
+      "nome": "JavaScript",
+      "tipo": "Linguagem de programação",
+      "descricao": "Linguagem utilizada para adicionar interactividade às páginas web.",
+      "uso_comum": ["Frontend web", "Aplicações web", "Desenvolvimento fullstack"]
+    },
+    {
+      "nome": "Python",
+      "tipo": "Linguagem de programação",
+      "descricao": "Linguagem de alto nível conhecida pela sua sintaxe simples e versatilidade.",
+      "uso_comum": ["Automação", "Ciência de dados", "Desenvolvimento web", "Inteligência artificial"]
+    },
+    {
+      "nome": "C",
+      "tipo": "Linguagem de programação",
+      "descricao": "Linguagem de programação de baixo nível, usada para desenvolvimento de sistemas.",
+      "uso_comum": ["Sistemas operativos", "Drivers", "Sistemas embutidos"]
+    },
+    {
+      "nome": "MySQL",
+      "tipo": "Sistema de gestão de bases de dados (SGBD)",
+      "descricao": "Sistema de gestão de bases de dados relacional, amplamente utilizado para armazenar e gerir dados.",
+      "uso_comum": ["Aplicações web", "Sistemas de informação", "Serviços backend"]
+    },
+    {
+      "nome": "PHP",
+      "tipo": "Linguagem de programação",
+      "descricao": "Linguagem de script do lado do servidor, muito utilizada no desenvolvimento web.",
+      "uso_comum": ["Desenvolvimento backend", "Gestores de conteúdos", "Sites dinâmicos"]
+    },
+    {
+      "nome": "React",
+      "tipo": "Biblioteca JavaScript",
+      "descricao": "Biblioteca para construção de interfaces de utilizador interactivas.",
+      "uso_comum": ["Frontend web", "Aplicações de página única (SPA)", "Aplicações móveis com React Native"]
+    },
+    {
+      "nome": "SQL",
+      "tipo": "Linguagem de consulta",
+      "descricao": "Linguagem utilizada para gerir e consultar bases de dados relacionais.",
+      "uso_comum": ["Análise de dados", "Administração de bases de dados", "Desenvolvimento backend"]
+    }
+  ]
+}
